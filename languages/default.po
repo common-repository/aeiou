@@ -1,0 +1,183 @@
+# Localization base file for AEIOU - Advanced Export/Import (WordPress) Object Users
+# Copyright (C) 2013  toSend.it di Luisa Marra (http://tosend.it)
+# This file is distributed under the same license as the AEIOU - Advanced Export/Import (WordPress) Object Users.
+# toSend.it di Luisa Marra , 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: info@tosend.it\n"
+"POT-Creation-Date: 2013-01-03\n"
+"PO-Revision-Date: 2013-01-05 14:31+0100\n"
+"Last-Translator: Luisa Marra <info@tosend.it>\n"
+"Language-Team: toSend.it di Luisa Marra <info@tosend.it>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+# Found in: /aeiou/index.php
+msgid "AEIOU - Panel"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Advanced Export/Import (WordPress) Object Users"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "AEIOU is free!"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "If this plugin is useful to your purpose, please <strong>consider a donation</strong>. "
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Feel free to donate as much as you want."
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Premium support"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "We are available for a premium support. If you need you can <a href=\"info@tosend.it\">contact us</a> for a consulting."
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Translate AEIOU"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "We would like to translate AEIOU in all languages, but we have not knowledge in more than Italian and... a little bit of English. So if you want contribute with your transaltion don't hesitate, send us and we will put into the next release!"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "This transaltion was made by:"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Luisa Marra"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "How to?"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Export password fields too"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Remeber that the password would be valid in the new website only if you keep the following defined constants:"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "and"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Export users metadata"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Export Users"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "If user exists (<em>found with the same username</em>):"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Skip user if exists"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "it will be skipped and neither user data nor metadata will be imported"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Replace user if exists"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "it will be removed and imported as new user"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Update only empty fields"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "the import will uppdate only the data and metadata that are empty"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Import users metadata"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Verbose output"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "The XML AEIOU User file:"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Import Users"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Import started."
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Please do not refresh the page and not go anywhere."
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Interruption of page execution could cause data loss and user table to break!"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "unchanged."
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "We're not asking you for <a href=\"%s\">a lunch</a>."
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "We think that <strong><a href=\"%s\">0,10 € (euro) per user</a></strong> could be the right ammount."
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Need some help? You can use the <a href=\"%s\">WordPress support forum</a> for this plugin."
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "has new %s value(s)."
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "inserted with ID %d"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "skipped due it's already in the database"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Metadata <code>%s</code> updated for user <strong>%s</strong>"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Metadata <code>%s</code> removed for user <strong>%s</strong>"
+msgstr ""
+
+# Found in: /aeiou/index.php
+msgid "Updated %d metadatas for user <strong>%s</strong>"
+msgstr ""
+

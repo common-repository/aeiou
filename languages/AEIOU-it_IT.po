@@ -1,0 +1,182 @@
+# Localization base file for AEIOU - Advanced Export/Import (WordPress) Object Users
+# Copyright (C) 2013  toSend.it di Luisa Marra (http://tosend.it)
+# This file is distributed under the same license as the AEIOU - Advanced Export/Import (WordPress) Object Users.
+# toSend.it di Luisa Marra , 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: info@tosend.it\n"
+"POT-Creation-Date: 2013-01-03\n"
+"PO-Revision-Date: 2013-01-05 14:30+0100\n"
+"Last-Translator: Luisa Marra <info@tosend.it>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Found in: /aeiou/index.php
+msgid "AEIOU - Panel"
+msgstr "AEIOU - Pannello"
+
+# Found in: /aeiou/index.php
+msgid "Advanced Export/Import (WordPress) Object Users"
+msgstr "Advanced Export/Import (WordPress) Object Users"
+
+# Found in: /aeiou/index.php
+msgid "AEIOU is free!"
+msgstr "AEIOU è gratuito!"
+
+# Found in: /aeiou/index.php
+msgid "If this plugin is useful to your purpose, please <strong>consider a donation</strong>. "
+msgstr "Se questo plugin è di utilità per i tuoi scopi, ti prego di <strong>considerare una donazione</strong>"
+
+# Found in: /aeiou/index.php
+msgid "Feel free to donate as much as you want."
+msgstr "Sentiti libero di donare quanto vuoi."
+
+# Found in: /aeiou/index.php
+msgid "Premium support"
+msgstr "Supporto premium"
+
+# Found in: /aeiou/index.php
+msgid "We are available for a premium support. If you need you can <a href=\"info@tosend.it\">contact us</a> for a consulting."
+msgstr "Siamo disponibili per un supporto premium. Se ne avessi bisogno <a href=\"info@tosend.it\">puoi contattarci</a> per una consulenza."
+
+# Found in: /aeiou/index.php
+msgid "Translate AEIOU"
+msgstr "Tradurre AEIOU"
+
+# Found in: /aeiou/index.php
+msgid "We would like to translate AEIOU in all languages, but we have not knowledge in more than Italian and... a little bit of English. So if you want contribute with your transaltion don't hesitate, send us and we will put into the next release!"
+msgstr "Ci piacerebbe tradurre AEIOU in tutte le lingue, ma non abbiamo conoscenza in altre lingue eccetto l'italiano e... un po' di inglese. Perciò se vuoi contribuire con la tua traduzione non esitare, inviacela e la includeremo nel prossimo rilascio!"
+
+# Found in: /aeiou/index.php
+msgid "This transaltion was made by:"
+msgstr "Questa traduzione è stata svolta da"
+
+# Found in: /aeiou/index.php
+msgid "Luisa Marra"
+msgstr "Luisa Marra"
+
+# Found in: /aeiou/index.php
+msgid "How to?"
+msgstr "Come fare per..."
+
+# Found in: /aeiou/index.php
+msgid "Export password fields too"
+msgstr "Esporta anche le password"
+
+# Found in: /aeiou/index.php
+msgid "Remeber that the password would be valid in the new website only if you keep the following defined constants:"
+msgstr "Ricorda che la password sarebbe valida nel nuovo sito solo se manterrai le seguenti definizioni:"
+
+# Found in: /aeiou/index.php
+msgid "and"
+msgstr "e"
+
+# Found in: /aeiou/index.php
+msgid "Export users metadata"
+msgstr "Esporta i metadati utente"
+
+# Found in: /aeiou/index.php
+msgid "Export Users"
+msgstr "Esporta utenti"
+
+# Found in: /aeiou/index.php
+msgid "If user exists (<em>found with the same username</em>):"
+msgstr "Se l'utente esiste (<em>presente con lo stesso username</em>):"
+
+# Found in: /aeiou/index.php
+msgid "Skip user if exists"
+msgstr "Salta l'utente se esiste"
+
+# Found in: /aeiou/index.php
+msgid "it will be skipped and neither user data nor metadata will be imported"
+msgstr "L'utente verrà ignorato e non saranno importate le informazioni utente e i metadati."
+
+# Found in: /aeiou/index.php
+msgid "Replace user if exists"
+msgstr "Sostituisci l'utente se esiste"
+
+# Found in: /aeiou/index.php
+msgid "it will be removed and imported as new user"
+msgstr "L'utente verrà rimosso e importato come nuovo utente"
+
+# Found in: /aeiou/index.php
+msgid "Update only empty fields"
+msgstr "Aggiorna solo i dati mancanti/vuoti"
+
+# Found in: /aeiou/index.php
+msgid "the import will uppdate only the data and metadata that are empty"
+msgstr "L'importer procederà all'aggiornamento dei soli dati e dei metadati che risulteranno vuoti o non presenti"
+
+# Found in: /aeiou/index.php
+msgid "Import users metadata"
+msgstr "Importa i metadati dell'utente"
+
+# Found in: /aeiou/index.php
+msgid "Verbose output"
+msgstr "Output verboso"
+
+# Found in: /aeiou/index.php
+msgid "The XML AEIOU User file:"
+msgstr "Il file XML  AEIOU degli utenti:"
+
+# Found in: /aeiou/index.php
+msgid "Import Users"
+msgstr "Importa gli utenti"
+
+# Found in: /aeiou/index.php
+msgid "Import started."
+msgstr "Importazione avviata."
+
+# Found in: /aeiou/index.php
+msgid "Please do not refresh the page and not go anywhere."
+msgstr "Per favore, non aggiornare la pagina e non andare altrove."
+
+# Found in: /aeiou/index.php
+msgid "Interruption of page execution could cause data loss and user table to break!"
+msgstr "L'interruzione dell'esecuzione di questa pagina potrebbe causare la perdita di dati utente e il danneggaimento della tabella degli utenti!"
+
+# Found in: /aeiou/index.php
+msgid "unchanged."
+msgstr "non risulta modificato."
+
+# Found in: /aeiou/index.php
+msgid "We're not asking you for <a href=\"%s\">a lunch</a>."
+msgstr "Non ti chiediamo di offrirci <a href=\"%s\">una cena</a>"
+
+# Found in: /aeiou/index.php
+msgid "We think that <strong><a href=\"%s\">0,10 € (euro) per user</a></strong> could be the right ammount."
+msgstr "Pensiamo che <strong><a href=\"%s\">0,10€ (euro) per utente</a></strong> potrebbe essere una cifra adeguata."
+
+# Found in: /aeiou/index.php
+msgid "Need some help? You can use the <a href=\"%s\">WordPress support forum</a> for this plugin."
+msgstr "Hai bisogno di aiuto? Puoi utilizzare il <a href=\"%s\">forum di supporto WordPress</a> per questo plugin."
+
+# Found in: /aeiou/index.php
+msgid "has new %s value(s)."
+msgstr "Ha %s nuovi valori."
+
+# Found in: /aeiou/index.php
+msgid "inserted with ID %d"
+msgstr "Inserito con ID %d"
+
+# Found in: /aeiou/index.php
+msgid "skipped due it's already in the database"
+msgstr "ignorato perchè già presente in banca dati"
+
+# Found in: /aeiou/index.php
+msgid "Metadata <code>%s</code> updated for user <strong>%s</strong>"
+msgstr "Il metadato <code>%s</code> è stato aggiornato per l'utente <strong>%s</strong>"
+
+# Found in: /aeiou/index.php
+msgid "Metadata <code>%s</code> removed for user <strong>%s</strong>"
+msgstr "Il metadato <code>%s</code> è stato rimosso per l'utente <strong>%s</strong>"
+
+# Found in: /aeiou/index.php
+msgid "Updated %d metadatas for user <strong>%s</strong>"
+msgstr "Aggiornati %d metadati per l'utente <strong>%s</strong>"
+
